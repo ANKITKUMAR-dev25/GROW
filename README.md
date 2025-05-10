@@ -52,18 +52,12 @@ GROWeGrocery/
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/GROWeGrocery.git
+git clone https://github.com/ANKITKUMAR-dev25/GROW.git
 cd GROWeGrocery
 ```
 
 2. **Open `index.html` in your browser:**
 
-You can simply double-click the file or use a local server:
-
-```bash
-# If you have Python installed
-python -m http.server
-```
 
 3. **Explore** the app via the navbar and pages.
 
